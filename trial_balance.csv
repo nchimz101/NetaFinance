@@ -1,0 +1,25 @@
+id,date,description,amount,transaction_type,company_id,category_id,category_name,budget_id,ledger_id,notes,remarks,reporting_trigger,transaction_date,active_agent
+2448,12/12/24 13:51,Mastercard Grant - Initial Disbursement,81821,credit,260978000000,1001,Grant Income,913161,1001,Mastercard Grant - Initial Disbursement,Grant Income,income,12/12/24,260978000000
+2852,2/10/25 16:18,Mastercard Grant - Second Disbursement,139650,credit,260978000000,1001,Grant Income,660776,1001,Mastercard Grant - Second Disbursement,Grant Income,income,02/10/25,260978000000
+2449,12/12/24 15:25,Domain Name Registration,1912,debit,260978000000,2001,Product Development,789597,2001,Domain Name Registration,Business Expense,expense,12/12/24,260978000000
+2458,12/12/24 21:08,Procurement of Hardware Components,511,debit,260978000000,2001,Product Development,623611,2001,Procurement of Hardware Components,Business Expense,expense,12/12/24,260978000000
+2464,12/12/24 21:12,Custom PCB Enclosure Design,9125,debit,260978000000,2001,Product Development,184552,2001,Custom PCB Enclosure Design,Business Expense,expense,12/12/24,260978000000
+2465,12/13/24 19:52,Electronic Components Purchase (JLCPCB),1954,debit,260978000000,2001,Product Development,129814,2001,Electronic Components Purchase,Business Expense,expense,12/13/24,260978000000
+2466,12/13/24 19:53,Additional Hardware Components (JLCPCB),245,debit,260978000000,2001,Product Development,176745,2001,Additional Hardware Components,Business Expense,expense,12/13/24,260978000000
+2467,12/13/24 19:55,Sourcing of IoT Components (JLCPCB),324,debit,260978000000,2001,Product Development,975089,2001,Sourcing of IoT Components,Business Expense,expense,12/13/24,260978000000
+2468,12/13/24 20:02,Branded T-Shirt Printing (2 Units),350,debit,260978000000,3001,Marketing Expenses,659725,3001,Branded T-Shirt Printing,Business Expense,expense,12/13/24,260978000000
+2470,12/15/24 15:25,Manufacturing of 10 IoT Devices (JLCPCB),11974,debit,260978000000,2002,Manufacturing Costs,397652,2002,Manufacturing of 10 IoT Devices,Business Expense,expense,12/15/24,260978000000
+2471,12/15/24 15:26,Bulk Purchase of 15 GSM Modules,3722,debit,260978000000,2002,Manufacturing Costs,964624,2002,Bulk Purchase of 15 GSM Modules,Business Expense,expense,12/15/24,260978000000
+2472,12/15/24 15:44,Shipping & Logistics Fees,460,debit,260978000000,2003,Logistics & Shipping,141256,2003,Shipping & Logistics Fees,Business Expense,expense,12/15/24,260978000000
+2473,12/15/24 23:01,IoT Device Engineer (Upwork Consultant),4690,debit,260978000000,4001,Consulting Services,699971,4001,IoT Device Engineer - Consultant,Business Expense,expense,12/15/24,260978000000
+2474,12/16/24 9:31,Custom PCB Design for Netagrow,7359,debit,260978000000,2001,Product Development,942246,2001,Custom PCB Design,Business Expense,expense,12/16/24,260978000000
+2475,12/16/24 9:42,Netagrow App UI/UX Design (Figma),4363,debit,260978000000,2001,Product Development,435459,2001,Netagrow App UI/UX Design,Business Expense,expense,12/16/24,260978000000
+2508,12/20/24 8:23,Team Salaries & Operational Costs,9703,debit,260978000000,5001,Staff Salaries,191530,5001,Team Salaries & Operational Costs,Business Expense,expense,12/20/24,260978000000
+2599,1/9/25 12:50,Import Duty & Customs Tax (Devices),5250,debit,260978000000,6001,Taxes & Duties,327057,6001,Import Duty & Customs Tax,Tax Expense,expense,01/09/25,260978000000
+2850,2/10/25 16:06,AWS Server Upgrade & Maintenance Fees,1000,debit,260978000000,7001,IT Infrastructure,643953,7001,AWS Server Upgrade & Maintenance,Business Expense,expense,02/10/25,260978000000
+2851,2/10/25 16:06,Expanded AWS Hosting & Cloud Services,9000,debit,260978000000,7001,IT Infrastructure,693338,7001,Expanded AWS Hosting & Cloud Services,Business Expense,expense,02/10/25,260978000000
+2853,2/10/25 16:22,Banking Fees & Processing Charges (ALA USA),558,debit,260978000000,8001,Banking & Finance Charges,312255,8001,Banking Fees & Processing Charges,Business Expense,expense,02/10/25,260978000000
+2973,2/20/25 12:39,Farm Assist App Development,40000,debit,260978000000,5001,Staff Salaries,156337,5001,Farm Assist App Development,Business Expense,expense,02/20/25,260978000000
+2974,1/2/25 12:54,Hostinger VPS Hosting (4-Year Plan),17880,debit,260978000000,7001,IT Infrastructure,904130,7001,Hostinger VPS Hosting,Business Expense,expense,01/02/25,260978000000
+2975,1/6/25 12:55,Apple Developer Program Annual Renewal,2925,debit,260978000000,7002,Software Licenses,578430,7002,Apple Developer Program Renewal,Business Expense,expense,01/06/25,260978000000
+2976,3/8/25 13:03,Flutterflow App Development Platform Subscription,9912,debit,260978000000,7002,Software Licenses,707167,7002,App Development Platform Subscription,Business Expense,expense,03/08/25,260978000000

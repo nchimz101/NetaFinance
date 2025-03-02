@@ -1,0 +1,32 @@
+{
+  "asset_categories": [
+    {"id": 10001, "name": "Cash & Bank", "includes": ["bank", "cash", "petty cash", "savings"]},
+    {"id": 10002, "name": "Accounts Receivable", "includes": ["receivable", "customer", "due from"]},
+    {"id": 10003, "name": "Inventory", "includes": ["inventory", "stock", "goods"]}, 
+    {"id": 10004, "name": "Equipment", "includes": ["equipment", "hardware", "device"]},
+    {"id": 10005, "name": "IT Infrastructure", "includes": ["infrastructure", "hosting", "server"]}
+  ],
+  "liability_categories": [
+    {"id": 20001, "name": "Accounts Payable", "includes": ["payable", "supplier", "vendor", "due to"]},
+    {"id": 20002, "name": "Short-term Loans", "includes": ["loan", "borrowing", "credit"]},
+    {"id": 20003, "name": "Tax Liabilities", "includes": ["tax", "duty", "vat", "levy"]}
+  ],
+  "equity_categories": [
+    {"id": 30001, "name": "Owner's Capital", "includes": ["capital", "investment", "contribution"]},
+    {"id": 30002, "name": "Retained Earnings", "includes": ["retained", "earnings"]},
+    {"id": 30003, "name": "Current Year Earnings", "includes": ["current year", "profit", "loss"]}
+  ],
+  "default_mappings": {
+    "Grant Income": "equity",
+    "Product Development": "expense",
+    "Manufacturing Costs": "expense",
+    "Marketing Expenses": "expense",
+    "Consulting Services": "expense",
+    "Staff Salaries": "expense",
+    "Taxes & Duties": "liability",
+    "IT Infrastructure": "asset",
+    "Software Licenses": "asset",
+    "Banking & Finance Charges": "expense",
+    "Logistics & Shipping": "expense"
+  }
+}

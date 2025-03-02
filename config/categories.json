@@ -1,0 +1,21 @@
+{
+  "income_categories": [
+    {"id": 1001, "name": "Grant Income", "description": "Funding received from grant organizations"},
+    {"id": 1002, "name": "Product Sales", "description": "Revenue from product sales"},
+    {"id": 1003, "name": "Service Revenue", "description": "Revenue from services rendered"},
+    {"id": 1004, "name": "Interest Income", "description": "Income earned from investments"}
+  ],
+  "expense_categories": [
+    {"id": 2001, "name": "Product Development", "description": "Costs related to product design and development"},
+    {"id": 2002, "name": "Manufacturing Costs", "description": "Costs related to manufacturing products"},
+    {"id": 2003, "name": "Logistics & Shipping", "description": "Costs for delivering goods to customers"},
+    {"id": 3001, "name": "Marketing Expenses", "description": "Costs related to marketing and advertising"},
+    {"id": 4001, "name": "Consulting Services", "description": "Costs for external consultants and advisors"},
+    {"id": 5001, "name": "Staff Salaries", "description": "Employee compensation and related costs"},
+    {"id": 6001, "name": "Taxes & Duties", "description": "Government taxes, duties and regulatory fees"},
+    {"id": 7001, "name": "IT Infrastructure", "description": "Server, hosting and infrastructure costs"},
+    {"id": 7002, "name": "Software Licenses", "description": "Costs for software licenses and subscriptions"},
+    {"id": 8001, "name": "Banking & Finance Charges", "description": "Fees related to banking and financial services"},
+    {"id": 9001, "name": "Office Expenses", "description": "Office rent, utilities and supplies"}
+  ]
+}
